@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
-  "version": "1.0",
+  "name": "EduHub",
+  "description": "Your favorite courses within a click away :) ",
+  "version": "1.5",
 
   "browser_action": {
     "default_icon": "icon.png",
